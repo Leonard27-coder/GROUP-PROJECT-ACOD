@@ -82,9 +82,6 @@ The Gradle wrapper is included. On Windows, build with:
 | Matthews Goma | 2300876 |
 | Kitangala Mulenga | 2300732 |
 
-## Current limitations
 
-- Only the role-selection starter screen is present. Discover Homes, Property Details, and Add Property are intentionally empty packages for team implementation.
-- Role selection stores no account or authentication data.
-- The listing data layer is local; this foundation has no server or cross-device synchronization.
-- Property entry, browsing, advance calculations, and map opening are proposed work and are not yet connected to the starter screen.
+
+
